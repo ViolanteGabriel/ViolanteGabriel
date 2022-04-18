@@ -1,5 +1,5 @@
-- 🔭 Atualmente procurando estágio front-end.
-- 🌱 Aprendendo JavaScript, CSS e HTML5.
+- 🔭 Studying in COLTEC-UFMG.
+- 🌱 Currently learning JS, HTML, CSS, C# and Java.
 
 <div align="center">
   <a href="https://github.com/ViolanteGabriel">
