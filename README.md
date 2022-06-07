@@ -1,4 +1,4 @@
-- 🔭 Studying in COLTEC-UFMG.
+- 🔭 Studying in COLTEC-UFMG .
 - 🌱 Currently learning JS, HTML, CSS, C# and Java.
 
 <div align="center">
