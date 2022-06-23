@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/ViolanteGabriel">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ViolanteGabriel&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViolanteGabriel&count_private=true&theme=tokyonight">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViolanteGabriel)](https://github.com/ViolanteGabriel/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViolanteGabriel&layout=compact)](https://github.com/ViolanteGabriel/github-readme stats)
 </div>
   
 <div style="display: inline_block"><br>
