@@ -8,7 +8,7 @@
   <a href="https://github.com/ViolanteGabriel">
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=violantegabriel&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=violantegabriel&count_private=true&theme=tokyonight">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViolanteGabriel&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </div>
   
