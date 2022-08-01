@@ -1,7 +1,7 @@
 <h1>Hey There, I'm Gabriel!</h1>
 
 - 🔭 Studying in COLTEC-UFMG .
-- 🌱 Currently learning JS, jQuery, C#, Unity, Boostrap.
+- 🌱 Currently learning JS, jQuery, C#, Unity, Boostrap, Django and python.
 - 😃 Pronouns He/Him
 
 <div align="center">
