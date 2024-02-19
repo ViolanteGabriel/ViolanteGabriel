@@ -1,8 +1,7 @@
 <h1>Hey There, I'm Gabriel!</h1>
 
-- 🔭 Studying in COLTEC-UFMG .
-- 🌱 Currently learning JS, jQuery, C#, Unity, Boostrap, Django and python.
-- 😃 Pronouns He/Him
+- 🔭 Studying Computer Science at UFMG;
+- 🌱 Currently learning JS, C, C++ and Python;
 
 <div align="center">
   <a href="https://github.com/ViolanteGabriel">
