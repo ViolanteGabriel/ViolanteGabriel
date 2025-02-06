@@ -37,7 +37,6 @@ I'm passionate about technology, problem-solving, and automation. My work spans 
 ## 📫 Connect with Me
 📧 gabriel.violante.bh@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-machado-violante)  
-📂 [GitHub](https://github.com/ViolanteGabriel)  
 
 Let’s build something great together! 🚀
 
