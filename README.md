@@ -8,7 +8,6 @@ I'm passionate about technology, problem-solving, and automation. My work spans 
 
 ## 🚀 About Me
 - 🎯 Researching **IoT Security & AI-based Threat Detection** at Winet.
-- 🛠️ Developing **automation solutions & web applications** at Pi Junior.
 - 🎮 Published work on **accessible game development for visually impaired users**.
 - 🏆 Active in **Competitive Programming**, solving algorithmic challenges in C++.
 
