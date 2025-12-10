@@ -60,20 +60,4 @@ My current research focuses on **TinyML** and **Adversarial AI**, exploring how 
 | **TinyNIDS (Ongoing)** | Researching the implementation of **Adversarial AI** on microcontroller units (MCUs) to create robust Network Intrusion Detection Systems. | `C++`, `Python`, `TensorFlow Lite` |
 | **Time Series Embeddings** | *Submitted to IEEE ICC 2026.* A novel approach for unsupervised anomaly detection in network flows using embeddings. | `Python`, `Scikit-learn` |
 | **EnemRunner** | An educational game approach recognized for technical implementation. Published ShortPaper (2022). | `Game Dev`, `Algorithm Design` |
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViolanteGabriel&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViolanteGabriel&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViolanteGabriel&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
-</div>
-
 ---
