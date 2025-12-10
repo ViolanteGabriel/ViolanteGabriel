@@ -11,19 +11,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a Computer Science undergraduate at the **Federal University of Minas Gerais (UFMG)**, aiming to solve complex problems where **Algorithm Design** meets **Hardware Constraints**. 
 
 My current research focuses on **TinyML** and **Adversarial AI**, exploring how to deploy robust Deep Learning models on edge devices (like Microcontrollers) to detect network intrusions. I believe the future of AI is agentic, efficient, and embedded.
 
-* 🔭 **I’m currently working on:** Adversarial attacks on NIDS for IoT devices (TinyNIDS).
-* 🧠 **I’m deeply interested in:** Digital Verification, Agentic AI, and Low-Level Optimization.
-* ⚡ **Fun fact:** I treat C++ memory management like a competitive sport.
+* **I’m currently working on:** Adversarial attacks on NIDS for IoT devices (TinyNIDS).
+* **I’m deeply interested in:** Digital Verification, Agentic AI, and Low-Level Optimization.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -67,18 +66,14 @@ My current research focuses on **TinyML** and **Adversarial AI**, exploring how 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViolanteGabriel&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViolanteGabriel&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VIOLANTEGABRIEL&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIOLANTEGABRIEL&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIOLANTEGABRIEL&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
 ---
-
-<div align="center">
-  <small><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></small>
-</div>
