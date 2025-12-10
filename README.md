@@ -63,17 +63,17 @@ My current research focuses on **TinyML** and **Adversarial AI**, exploring how 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIOLANTEGABRIEL&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIOLANTEGABRIEL&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViolanteGabriel&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViolanteGabriel&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIOLANTEGABRIEL&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViolanteGabriel&theme=dracula&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
 ---
