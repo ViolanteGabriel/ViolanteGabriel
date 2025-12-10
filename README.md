@@ -53,7 +53,7 @@ My current research focuses on **TinyML** and **Adversarial AI**, exploring how 
 
 ---
 
-### 🔬 Research & Highlights
+### Research & Highlights
 
 | Project / Paper | Description | Tech Stack |
 | :--- | :--- | :--- |
