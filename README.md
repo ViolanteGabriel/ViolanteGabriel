@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:004080&height=250&section=header&text=Gabriel%20Violante&fontSize=80&fontColor=ffffff&desc=Bridging%20Software%20Intelligence%20&%20Silicon%20Efficiency&descSize=20&fontAlignY=40" width="100%"/>
 
   ### Computer Science Student @ UFMG | TinyML Researcher | Competitive Programmer
   
