@@ -1,61 +1,85 @@
 <div align="center">
 
-  ### Computer Science Student @ UFMG | TinyML Researcher | Competitive Programmer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-violante/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.violante.bh@outlook.com)
+# Gabriel Violante
+
+**Computer Science @ UFMG · Edge AI · TinyML · Embedded Systems**
+
+Building intelligent systems at the intersection of **AI, software and hardware**.
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-violante/) ·
+[Email](mailto:gabriel.violant@gmail.com)
 
 </div>
 
 ---
 
-### About Me
+## About
 
-I am a Computer Science undergraduate at the **Federal University of Minas Gerais (UFMG)**, aiming to solve complex problems where **Algorithm Design** meets **Hardware Constraints**. 
+I'm a Computer Science undergraduate at the **Federal University of Minas Gerais (UFMG)** with a background in systems development and undergraduate research.
 
-My current research focuses on **TinyML** and **Adversarial AI**, exploring how to deploy robust Deep Learning models on edge devices (like Microcontrollers) to detect network intrusions. I believe the future of AI is agentic, efficient, and embedded.
+My main interest is building intelligent systems that operate under real-world constraints. During my research at UFMG's Cybersecurity and Artificial Intelligence Laboratory, I worked with **machine learning, network security, time-series representations and TinyML**, including experiments on resource-constrained hardware.
 
-* **I’m currently working on:** Adversarial attacks on NIDS for IoT devices (TinyNIDS).
-* **I’m deeply interested in:** Digital Verification, Agentic AI, and Low-Level Optimization.
+That experience shaped the direction I want to pursue: **AI applied to embedded systems, edge devices and robotics**, combining strong software foundations with a deeper understanding of hardware and engineering.
+
+I currently work as a **Software Development Intern at LEVTY**, expanding my experience in software engineering, teamwork and product development.
+
+## Interests
+
+- Edge AI & TinyML
+- Embedded Systems
+- Machine Learning
+- Robotics & Autonomous Systems
+- Computer Networks & Cybersecurity
+- Low-Level Systems
+- Research & Development
+
+## Selected Work
+
+### TinyFlow-EdgeNIDS
+Lightweight network intrusion detection for resource-constrained edge devices using **TinyML and time-series embeddings**.
+
+`Python` `TensorFlow Lite Micro` `TinyML` `Arduino` `Network Security`
+
+Published at **SBRC 2026**.
+
+### Time Series Embeddings for Network Anomaly Detection
+Research on compact temporal representations of network traffic for **semi-supervised and unsupervised anomaly detection**.
+
+`Python` `TensorFlow` `scikit-learn` `Machine Learning`
+
+Published at **IEEE ISCC 2026**.
+
+### Enem Runner
+Accessible mobile game developed at **COLTEC-UFMG**, designed to improve game accessibility for visually impaired users through audio-based interaction.
+
+`Unity` `C#` `Accessibility` `Game Development`
+
+Published at **SBGames 2022**.
+
+## Tech
+
+**Languages**
+
+`Python` `C++` `C` `JavaScript` `SQL` `SystemVerilog`
+
+**AI & Data**
+
+`TensorFlow` `PyTorch` `scikit-learn` `Pandas` `TinyML` `TensorFlow Lite Micro`
+
+**Systems & Tools**
+
+`Arduino` `Linux` `Docker` `Git` `GitHub` `LaTeX`
+
+## Beyond Code
+
+I enjoy problems that require **abstraction, experimentation and engineering trade-offs**, especially when software has to interact with the physical world.
+
+My long-term goal is to work on research and development in **intelligent embedded systems and robotics**, combining academic research with real-world engineering.
 
 ---
-
-### Tech Stack
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-**AI & Data Science**
-<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-**Hardware & Tools**
-<br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white"/>
+**Always interested in challenging problems, research and building things that actually run.**
 
 </div>
-
----
-
-### Research & Highlights
-
-| Project / Paper | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **TinyNIDS (Ongoing)** | Researching the implementation of **Adversarial AI** on microcontroller units (MCUs) to create robust Network Intrusion Detection Systems. | `C++`, `Python`, `TensorFlow Lite` |
-| **Time Series Embeddings** | *Submitted to IEEE ICC 2026.* A novel approach for unsupervised anomaly detection in network flows using embeddings. | `Python`, `Scikit-learn` |
-| **EnemRunner** | An educational game approach recognized for technical implementation. Published ShortPaper (2022). | `Game Dev`, `Algorithm Design` |
----
