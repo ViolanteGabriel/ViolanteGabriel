@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Gabriel Violante
+# Hi, I'm Gabriel Violante
 
 ### Computer Science @ UFMG · Edge AI · TinyML · Embedded Systems
 
