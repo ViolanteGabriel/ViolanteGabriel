@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Computer Science undergraduate at the Federal University of Minas Gerais (UFMG)** with a technical background in Systems Development and experience in academic research and software engineering.
 
@@ -45,7 +45,7 @@ I currently work as a **Software Development Intern at LEVTY**, expanding my exp
 
 ---
 
-## 🔬 Research & Selected Work
+## Research & Selected Work
 
 ### 🛡️ TinyFlow-EdgeNIDS
 
@@ -91,7 +91,7 @@ Accessible mobile game developed at **COLTEC-UFMG**, designed to improve game ac
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Accessible mobile game developed at **COLTEC-UFMG**, designed to improve game ac
 
 ---
 
-## 🎯 What I'm Interested In
+## What I'm Interested In
 
 <table>
 <tr>
@@ -160,7 +160,7 @@ Understanding how algorithms, software and hardware interact under real constrai
 
 ---
 
-## 🚀 Where I'm Heading
+## Where I'm Heading
 
 My long-term goal is to work at the frontier of **AI, embedded systems and robotics**, developing intelligent systems that connect algorithms to the physical world.
 
@@ -169,8 +169,6 @@ I intend to combine academic research with real-world engineering experience, pu
 ---
 
 <div align="center">
-
-### 💡 Research · Build · Test · Iterate
 
 <sub>
 I enjoy difficult problems, especially when the solution has to work beyond the screen.
